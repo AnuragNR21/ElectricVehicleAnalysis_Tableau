@@ -1,0 +1,39 @@
+Electric Vehicle Data Analysis
+
+This repository contains a Tableau dashboard designed to analyze and visualize key trends in electric vehicle (EV) data. The project focuses on delivering actionable insights into EV adoption, market trends, and other relevant metrics.
+
+📋 About the Project
+Electric vehicles are transforming the automotive industry, and data analysis plays a crucial role in understanding their adoption patterns and market impact. This dashboard provides:
+
+An interactive interface for data exploration.
+Key insights into EV sales, battery performance, market penetration, and more.
+Trends analysis to aid in decision-making for stakeholders in the EV ecosystem.
+
+📊 Features
+Interactive Visualizations: Includes dynamic charts, heatmaps, and filterable graphs.
+Data Insights: Focuses on trends in EV adoption, regional statistics, and energy usage.
+User-Friendly Interface: Built with Tableau for ease of interaction and presentation.
+
+🚀 Getting Started
+Prerequisites
+Tableau Desktop (to open and interact with the .twbx file).
+Basic knowledge of Tableau navigation.
+
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/yourusername/Electric-Vehicle-Data-Analysis.git
+Open the .twbx file in Tableau Desktop.
+
+Usage
+Launch Tableau Desktop.
+Open the Electric Vehicle Data Analysis.twbx file.
+Explore the interactive dashboard to gain insights.
+
+🎯 Objectives
+This dashboard was created to:
+
+Analyze and present data related to EV market trends.
+Facilitate better understanding of EV adoption and performance metrics.
+Support businesses and policymakers in making informed decisions.
